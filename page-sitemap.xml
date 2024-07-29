@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on July 29, 2024 at 1:01 am by All in One SEO v4.6.7.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on July 29, 2024 at 2:19 am by All in One SEO v4.6.7.1 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
 <urlset
@@ -8,44 +8,173 @@
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/awards/]]></loc>
-		<lastmod><![CDATA[2024-07-28T20:35:58+00:00]]></lastmod>
+		<loc><![CDATA[/]]></loc>
+		<lastmod><![CDATA[2024-07-29T01:58:24+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/11.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/design-portfolio_icon_1@2x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/design-portfolio_icon_2@2x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/design-portfolio_icon_3@2x.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/ezgif.com-video-to-gif-converter.gif]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/bot.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/finalProject.gif]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/3d-prints-for-sale/]]></loc>
+		<lastmod><![CDATA[2024-07-29T02:12:57+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/force.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/saturn.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/3ds.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/coin.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/pixelcade.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/vw.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/pinball.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/Screenshot-2024-07-23-223652.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/about-me/]]></loc>
+		<lastmod><![CDATA[2024-07-29T02:12:10+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/1697045913445.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/awards/]]></loc>
+		<lastmod><![CDATA[2024-07-29T02:10:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_131912.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_131946.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132041.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132100.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132137.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132117.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132124.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132201.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132229.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132254.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132238.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132305.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132322.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132348.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132418.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132444.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132555.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132629.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132641.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132725.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/20240728_132736.jpg]]></image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[/portfolio-resume/]]></loc>
-		<lastmod><![CDATA[2024-07-28T20:09:45+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-07-29T02:09:12+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/portfolio-projects/]]></loc>
-		<lastmod><![CDATA[2024-07-28T19:33:11+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-07-29T02:06:52+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/3d-prints-for-sale/]]></loc>
-		<lastmod><![CDATA[2024-07-28T09:22:26+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/about-me/]]></loc>
-		<lastmod><![CDATA[2024-07-28T09:12:34+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/ezgif.com-video-to-gif-converter.gif]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/bot.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/finalProject.gif]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/PosterBoard.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/vw.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/07/FRS.jpg]]></image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[/contact/]]></loc>
 		<lastmod><![CDATA[2024-07-28T08:27:51+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/home-page/]]></loc>
-		<lastmod><![CDATA[2024-07-28T08:25:16+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
