@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on July 29, 2024 at 1:01 am by All in One SEO v4.6.7.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/awards/]]></loc>
+		<lastmod><![CDATA[2024-07-28T20:35:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/portfolio-resume/]]></loc>
+		<lastmod><![CDATA[2024-07-28T20:09:45+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/portfolio-projects/]]></loc>
+		<lastmod><![CDATA[2024-07-28T19:33:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/3d-prints-for-sale/]]></loc>
+		<lastmod><![CDATA[2024-07-28T09:22:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/about-me/]]></loc>
+		<lastmod><![CDATA[2024-07-28T09:12:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/contact/]]></loc>
+		<lastmod><![CDATA[2024-07-28T08:27:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/home-page/]]></loc>
+		<lastmod><![CDATA[2024-07-28T08:25:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>
